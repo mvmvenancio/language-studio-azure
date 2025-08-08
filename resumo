@@ -1,0 +1,66 @@
+✅ Resumo Geral das Aulas =>
+ 
+# Aula 1 - Introdução ao Language Studio:
+## Objetivo
+Conhecer a plataforma Azure Language Studio e entender os recursos disponíveis para análise de linguagem natural.
+## Conteúdo
+- Apresentação da plataforma Azure Language Studio;
+- Criação de recurso de linguagem no Azure;
+- Navegação pela interface do Language Studio;
+- Visão geral dos serviços de IA para análise de texto.
+## Aprendizado
+Aprendi a configurar o ambiente e explorar os serviços básicos de linguagem.
+ 
+# Aula 2 - Análise de Sentimentos:
+## Objetivo
+Aplicar a análise de sentimentos em textos usando Language Studio.
+## Conteúdo
+- Aplicação prática da análise de sentimentos;
+- Tipos de sentimentos: positivo, negativo, neutro, misto;
+- Probabilidade associada ao sentimento detectado;
+- Casos práticos com textos variados.
+## Aprendizado
+Entendi como o modelo classifica sentimentos e como interpretar os resultados.
+ 
+# Aula 3 - Extração de Frases-Chave e Entidades:
+## Objetivo
+Identificar termos e entidades relevantes em textos.
+## Conteúdo
+- Identificação de termos relevantes em textos, frases-chave;
+- Reconhecimento de entidades como locais, pessoas e datas;
+- Aplicações práticas em atendimento ao cliente e análise de feedback.
+## Aprendizado
+Aprendi a extrair informações úteis de textos para análise contextual.
+ 
+# Aula 4 - Perguntas e Respostas:
+## Objetivo
+Criar e testar bases de conhecimento com pares de perguntas e respostas.
+## Conteúdo
+- Criação de base de conhecimento com pares de Q&A;
+- Inserção manual e automática de Q&A;
+- Testes com perguntas abertas e fechadas;
+- Integração com boots e assistentes virtuais.
+## Aprendizado
+Compreendi como estruturar conhecimento para assistentes virtuais.
+ 
+# Aula 5 - Speech Studio: Fala para Texto:
+## Objetivo
+Utilizar o Azure Speech Studio para transcrever fala em texto.
+## Conteúdo
+- Introdução ao Azure Speech Studio;
+- Criação de recurso de fala;
+- Transcrição de áudio em tempo real;
+- Escolha de idioma.
+## Aprendizado
+Aprendi a configurar e usar o serviço de reconhecimento de fala.
+ 
+# Aula 6 - Texto para Fala:
+## Objetivo
+Gerar áudio a partir de texto usando o Azure Speech Studio.
+## Conteúdo
+- Geração de áudio a partir de texto;
+- Escolha de voz e idioma;
+- Geração de áudio;
+- Aplicações práticas em acessibilidade e automação.
+## Aprendizado
+Entendi como criar saídas de voz para sistemas automatizados
